@@ -54,7 +54,7 @@ The dataset used is the **SMS Spam Collection Dataset**, which contains 5,574 SM
 ---
 
 ## 👤 Author
-**Darshan Ganesh Bhabad** * **PRN:** [Insert Your PRN Here]
+**Darshan Ganesh Bhabad** 
 * **GitHub:** [@DarshanBhabad](https://github.com/DarshanBhabad)
 * **Kaggle:** [@bboyattitude](https://www.kaggle.com/bboyattitude)
 
